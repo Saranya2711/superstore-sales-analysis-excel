@@ -1,5 +1,7 @@
 # Sales Performance Analysis Dashboard (Excel)
 
+![Office Environment](Officesupplies.jpg)
+
 This project presents a complete sales performance analysis using the Superstore dataset.  
 The dashboard provides insights into revenue, profit trends, regional performance, and top-selling products.
 
